@@ -1,5 +1,7 @@
 # Desafio Dio modelagem de funções IPhone
 
+### Diagrama UML (Mermaid)
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar()
@@ -30,3 +32,4 @@ classDiagram
     SmartPhone --> NavegadorInternet
 
     IPhone -->SmartPhone
+```
